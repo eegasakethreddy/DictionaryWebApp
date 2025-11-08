@@ -73,7 +73,7 @@ export default function App() {
         <header className="header-row">
           <div className="header-left">
             <div className="logo" aria-hidden>📘</div>
-            <h1 className="header">Dictionary</h1>
+            <h1 className="header">Dictionary App</h1>
           </div>
           <div className="recent-actions">
             <button className="ghost" onClick={() => { setQuery(""); setData(null); setError(null); inputRef.current?.focus(); }} aria-label="Clear search">Clear</button>
