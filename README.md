@@ -1,7 +1,7 @@
 📘 Dictionary Web App
 
 A modern and lightweight Dictionary Web Application built using FastAPI (Python) for the backend and React (Vite) for the frontend.
-This web app allows users to search any English word and instantly get its definitions, phonetics, and pronunciation — all with a clean UI and fast response.
+This web app allows users to search any English word and instantly get its definitions, and phonetics — all with a clean UI and fast response.
 🌍 Live App: https://dictionarywebapp.onrender.com
 
 🧩 Overview
@@ -17,7 +17,6 @@ This project demonstrates a Full-Stack Web App where:
 Definition(s)
 Part of speech
 Phonetic pronunciation
-Audio playback
 
 ✅ Built using modern full-stack technologies:
 FastAPI + Uvicorn for backend
